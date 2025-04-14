@@ -1,0 +1,1 @@
+id -nG john | tr ' ' ','
